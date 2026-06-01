@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Emeke Izah 👋
+
+Data Analyst | Product, Supply Chain & Operations Analytics
+
+5+ years of transforming complex data into clear, actionable insights across education, retail, administration, and business operations.
+
 
 <!--
 **Emeke-Izah/Emeke-Izah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
