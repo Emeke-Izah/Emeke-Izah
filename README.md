@@ -1,4 +1,4 @@
-## Hi, I'm Emeke Izah 👋
+## Hi, I'm Emeke Izah 
 
 Data Analyst | Product, Supply Chain & Operations Analytics
 
