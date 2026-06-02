@@ -14,13 +14,13 @@ My career path has taken me from University Classrooms in Nigeria to Administrat
 
 ## 
 
-Tools & Technologies
+# Tools & Technologies
 
 Power BI | Excel| Tableau | SQL | Visualization
 
 ## 
 
-Let's Connect
+# Let's Connect
 
 
 
