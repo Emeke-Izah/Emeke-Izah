@@ -11,6 +11,14 @@ I'm a Data Analyst with over six years of experience helping organizations make 
 
 My career path has taken me from University Classrooms in Nigeria to Administrations, and now into data analytics. What connects all of my experience is a commitment to precision, analytical problem-solving, and leveraging data to drive meaningful outcomes and better decision-making.
 
+## Tools & Technologies
+
+Power BI | Excel| Tableau | SQL | Visualization
+
+## Let's Connect
+
+www.linkedin.com/in/emeke-izah
+
 
 
 <!--
