@@ -17,7 +17,7 @@ Power BI | Excel| Tableau | SQL | Visualization
 
 ## Let's Connect
 
-www.linkedin.com/in/emeke-izah
+
 
 
 
