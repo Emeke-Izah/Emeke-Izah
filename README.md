@@ -5,7 +5,7 @@ Data Analyst | Product, Supply Chain & Operations Analytics
 5+ years of transforming complex data into clear, actionable insights across education, retail, administration, and business operations.
 
 
-## About Me
+### About Me
 
 I'm a Data Analyst with over five years of experience helping organizations make data-driven decisions through analytics, visualization, and business intelligence. My expertise spans data analysis, KPI tracking, dashboard development, customer analytics, inventory optimization, performance reporting, and data storytelling.
 
