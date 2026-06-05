@@ -1,28 +1,29 @@
-## Hi, I'm Emeke Izah 
+## Hi, I'm Emeke Izah #
 
 Data Analyst | Product, Supply Chain & Operations Analytics
 
 5+ years of transforming complex data into clear, actionable insights across education, retail, administration, and business operations.
+_________________________________________________
 
-##
-
-## About Me
-
+## About Me 
 I'm a Data Analyst with over five years of experience helping organizations make data-driven decisions through analytics, visualization, and business intelligence. My expertise spans data analysis, KPI tracking, dashboard development, customer analytics, inventory optimization, performance reporting, and data storytelling.
 
 My career path has taken me from University Classrooms in Nigeria to Administrations, and now into data analytics. What connects all of my experience is a commitment to precision, analytical problem-solving, and leveraging data to drive meaningful outcomes and better decision-making.
-
-## 
+_________________________________________________________________________
 
 ## Tools & Technologies
 
 Power BI | Excel| Tableau | SQL | Visualization
+_____________________________________________________________________________
 
-## 
 ## Featured Projects 
 | Project	| Description	| Tools |
 |---------|-------------|-------|
 E-Commerce Analysis | Analyze | Power BI |
+
+
+_____________________________________________________________________________
+
 ## Let's Connect
 
 
