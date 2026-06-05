@@ -6,7 +6,7 @@ Data Analyst | Product, Supply Chain & Operations Analytics
 
 ##
 
-# About Me
+## About Me
 
 I'm a Data Analyst with over five years of experience helping organizations make data-driven decisions through analytics, visualization, and business intelligence. My expertise spans data analysis, KPI tracking, dashboard development, customer analytics, inventory optimization, performance reporting, and data storytelling.
 
@@ -14,13 +14,16 @@ My career path has taken me from University Classrooms in Nigeria to Administrat
 
 ## 
 
-# Tools & Technologies
+## Tools & Technologies
 
 Power BI | Excel| Tableau | SQL | Visualization
 
 ## 
-
-# Let's Connect
+## Featured Projects 
+| Project	| Description	| Tools |
+|---------|-------------|-------|
+E-Commerce Analysis | Analyze | Power BI |
+## Let's Connect
 
 
 
