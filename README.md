@@ -18,7 +18,7 @@ Power BI | Excel | Tableau | SQL | Visualization
 | :--- | :--- | :--- |
 | E-Commerce Analysis | Analyze | Power BI |
 
-
+### Let's Connect
 
 
 
