@@ -1,6 +1,10 @@
 ## Hi, I'm Emeke Izah
 Data Analyst | Product & Operations Analytics
 
+5+ years of delivering clear insights from complex data across diverse industries.
+
+***
+
 
 ### About Me
 
